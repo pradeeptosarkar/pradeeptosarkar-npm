@@ -9,7 +9,8 @@ This NPM package displays Pradeepto Sarkar's profile details, including informat
 You can install this package globally using npm:
 
 ```bash
-npm install -g pradeeptos-profile ```
+npm install -g pradeeptos-profile
+```
 
 ## Usage
 
@@ -17,3 +18,4 @@ Once installed, you can simply run the following command in your terminal:
 
 ```bash
 pradeeptos-profile
+```
