@@ -105,3 +105,4 @@ const main = async () => {
 main().catch(error => {
     console.error(chalk.red("Something went wrong:", error));
 });
+
