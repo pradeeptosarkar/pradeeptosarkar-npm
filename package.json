@@ -1,0 +1,30 @@
+{
+  "name": "pradeeptosarkar-npm",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The NPM package to display my profile details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "test": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradeeptosarkar/pradeeptosarkar-npm.git"
+  },
+  "author": "Pradeepto Sarkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pradeeptosarkar/pradeeptosarkar-npm/issues"
+  },
+  "homepage": "https://github.com/pradeeptosarkar/pradeeptosarkar-npm#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "cli-spinners": "^3.0.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.2.22"
+  }
+}
